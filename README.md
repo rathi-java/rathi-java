@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gourav Rathi!  
+# Hi, I'm Gourav Rathi!  
 
 ## 🚀 About Me  
 I am a passionate **Java Developer** with expertise in **backend development, database management, and AI-powered solutions**. I enjoy working on **innovative projects**.
@@ -24,14 +24,13 @@ I love solving complex problems and **building scalable applications** that make
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rathi-java&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ## 📫 Connect With Me  
 - GitHub: [rathi-java](https://github.com/rathi-java)  
 - Email: [Gourav Rathi](rathi@rathitech.me)
 - LinkedIn: [Gourav Rathi](https://www.linkedin.com/in/gouravrathi-java/)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=rathi-java&icon=5&color=12)](https://visitcount.itsvg.in)
 
