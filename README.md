@@ -26,12 +26,10 @@ I love solving complex problems and **building scalable applications** that make
 
 ## 📫 Connect With Me  
 - GitHub: [rathi-java](https://github.com/rathi-java)  
-- Email: [Gourav Rathi](rathi@rathitech.me)
-- LinkedIn: [Gourav Rathi](https://www.linkedin.com/in/gouravrathi-java/)
+- Email: [Gourav Rathi's Email](rathi@rathitech.me)
+- LinkedIn: [Gourav Rathi's LinkedIn](https://www.linkedin.com/in/gouravrathi-java/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=rathi-java&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
